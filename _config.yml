@@ -1,11 +1,11 @@
 # Site settings
 author: Katie Moosman
-title: 
+title: Methods to My Madness
 header-img: img/home-bg.png
 email: moosman.katie@gmail.com
 copyright_name: Katie Moosman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Bite size blogs, no parser required. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kmoosman
