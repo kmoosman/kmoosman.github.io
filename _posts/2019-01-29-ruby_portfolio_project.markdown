@@ -1,12 +1,12 @@
 ---
 layout: post
-title:      "**Ruby Portfolio Project**"
-date:       2019-01-30 03:44:51 +0000
+title:      "Ruby Portfolio Project"
+date:       2019-01-29 22:44:52 -0500
 permalink:  ruby_portfolio_project
 ---
 
 
-*Break, fix, repeat. *
+**Break, fix, repeat.**
 
 This has been my mantra the past month as I live and breath those three little words every day. 
 
