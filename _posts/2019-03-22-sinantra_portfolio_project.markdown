@@ -10,7 +10,7 @@ Last month, I sold my house, all of my belongings and hit the road as a digital 
 
 I absolutely loved this project. It felt like it came together so quickly and all of my learnings are finally compounding, so I no longer feel like such an imposter. It's exciting to see how quickly you build with Ruby. 
 
-My biggest challenge with this project was the CSS. Fancy styling wasn't required as part of the specs but it look a little piece of my soul everytime I ran shotgun and was greeted by an unformatted page *cringe*.
+My biggest challenge with this project was the CSS. Fancy styling wasn't required as part of the specs but it look a little piece of my soul everytime I ran shotgun and was greeted by an unformatted page * cringe *.
 
 It took me far longer than I care to admit to figure out where in the world to put my stylesheet, so here's a quick run down of my findings for anyone else who may find themselves with the same dilemma. 
 
