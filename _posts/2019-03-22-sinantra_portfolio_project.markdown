@@ -18,7 +18,7 @@ It took me far longer than I care to admit to figure out where in the world to p
 2. Add a css file to the public folder (I named mine style.css) 
 3. Link to the stylesheet in your layout.erb file 
 > 
-> <link rel="stylesheet" type="text/css" href="/style.css">
+> link rel="stylesheet" type="text/css" href="/style.css"
 > 
 
 **NOTE** 
