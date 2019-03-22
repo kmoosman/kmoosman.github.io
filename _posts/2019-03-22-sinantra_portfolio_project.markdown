@@ -24,7 +24,7 @@ It took me far longer than I care to admit to figure out where in the world to p
 **NOTE** 
 If your styles don't apply when you refresh the page, try a hard refresh (cmd + shift + r). I couldn't for the life of me figure out why styles weren't applying and until I uncovered that little secret! 
 
-Overall, I'm pretty satisfied with the project, I had a lot of fun building it and I'm excited to add a few new adventures to my page. 
+Overall, I'm pretty satisfied with the project. I had a lot of fun building it and I'm excited to add a few new adventures to my page. 
 
 
 
