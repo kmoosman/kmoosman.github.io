@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinantra Portfolio Project"
-date:       2019-03-22 22:52:27 +0000
+date:       2019-03-22 18:52:28 -0400
 permalink:  sinantra_portfolio_project
 ---
 
