@@ -26,7 +26,6 @@ I'll wrap this post up with a few lessons I learned while creating the Garage Re
 * **Pay attentino to relationships!**
  I spent hours trying to track down why my objects would save... *the culprit was improper mapping of relationships in my models.*
 * **Don't get hungup on the design. **
-
 *I spent hours at the beginning tweaking my css because I couldn't get something to look just right, before I had the core functionality of my App built. This was backwards. Lay the groundwork, then come back later. It was a breeze once I had everything wired up. *
 * **When in doubt restart your server** 
 *If you're positive your code "should" be working and it's not. Stop banging your head against the table and restart your server.*
