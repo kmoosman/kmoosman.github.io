@@ -30,4 +30,4 @@ I'll wrap this post up with a few lessons I learned while creating the Garage Re
 * **When in doubt restart your server** 
 *If you're positive your code "should" be working and it's not. Stop banging your head against the table and restart your server.*
 * **Don't be afraid to pivot** 
-*I started with 3 models and designed my project around that. Then I met with Kevin to talk about my project and I began to see a bigger scope that added another model but it also helped future proof my app to continue to build upon it. I was nervous to deviate from the path I had already started down but I'm so glad I did, I came out with a much better project in the end* 
+*I started with 3 models and designed my project around that. Then I met with Kevin to talk about my project and he helped me see a bigger scope that added another model but it also helped future proof my app to continue to build upon it. I was nervous to deviate from the path I had already started down but I'm so glad I did, I came out with a much better project in the end* 
