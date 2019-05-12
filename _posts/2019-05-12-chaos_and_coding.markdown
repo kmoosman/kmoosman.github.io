@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Chaos and Coding "
-date:       2019-05-12 18:31:41 +0000
+date:       2019-05-12 14:31:42 -0400
 permalink:  chaos_and_coding
 ---
 
@@ -21,3 +21,14 @@ I thought this was the end to my chaos but it was only the beginning. Over the n
 Life’s been a bit unpredictable to say the least but after beating myself up for months about my slow progress in the bootcamp I’ve decided to embrace the chaos. As I turn in this final project for rails that I’ve picked up and put down a couple times the past few days, I’m reminded soon as I return to my editor, it’s all still there. That regardless of the ups and downs life brings or whatever pesky bug in your code you’ve been banging your head against for days, stepping away can bring you a new insight and perspective. Everything will be right where you left it when you return. It’s never too late to pick back up and and continue pressing forward. 
 
 So all in all - sure, I had a grand plan to be done with the bootcamp and on to my first programming job already. But this crazy journey as taught me far more than that ever could. It’s taught me I can do hard things. That a little bit every day counts and to never give up on your dreams. So, cheers to a few crazy stories and the adventures, heartbreak and chaos that will make graduation day so much more satisfying. 
+
+I'll wrap this post up with a few lessons I learned while creating the Garage Rental App
+* **Pay attentino to relationships!**
+ I spent hours trying to track down why my objects would save... *the culprit was improper mapping of relationships in my models.*
+* **Don't get hungup on the design. **
+
+*I spent hours at the beginning tweaking my css because I couldn't get something to look just right, before I had the core functionality of my App built. This was backwards. Lay the groundwork, then come back later. It was a breeze once I had everything wired up. *
+* **When in doubt restart your server** 
+*If you're positive your code "should" be working and it's not. Stop banging your head against the table and restart your server.*
+* **Don't be afraid to pivot** 
+*I started with 3 models and designed my project around that. Then I met with Kevin to talk about my project and I began to see a bigger scope that added another model but it also helped future proof my app to continue to build upon it. I was nervous to deviate from the path I had already started down but I'm so glad I did, I came out with a much better project in the end* 
