@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Stop OverReacting - Final Project"
-date:       2019-06-24 19:40:51 +0000
+date:       2019-06-24 15:40:52 -0400
 permalink:  stop_overreacting_-_final_project
 ---
 
@@ -41,6 +41,6 @@ This can be found in the [redux docs ](https://redux.js.org/recipes/structuring-
 
 I spend 2 days hung up on this issue. So I hope this can help unblock someone else who may encounter a similar issue in the future. 
 
-This was a fun and challening project and I'm glad I encountered this issue as I learned alot about Redux and React along the way that I had not encountered through the lessions yet. 
+This was a fun and challenging project and I'm glad I encountered this issue as I learned alot about Redux and React along the way that I had not encountered through the lessions yet. 
 
 So overall, we'll call it a win with the moral of the story being, when in doubt - always check the docs. 
