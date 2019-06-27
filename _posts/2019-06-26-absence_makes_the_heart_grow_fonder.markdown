@@ -22,4 +22,4 @@ Pairing it up with an API backend was the icing on the cake, which is also smoot
 
 So after all the lessions, 5 projects and 6 months later - I think I can finally admit, I sure do love Ruby! 
 
-I'm so grateful for this bootcamp and all I've learned throughout it. I can't wait to use these skills in my first developer role and can't believe people actually pay us to do this for a living. This truly is my dream job and as I wrap up the bootcamp I have to give a big thank you to Flatiron to helping make it a reality. 
+I'm so grateful for this bootcamp and all I've learned throughout it. I can't wait to use these skills in my first developer role and can't believe people actually pay us to do this for a living. This truly is my dream job and as I wrap up the bootcamp I have to give a big thank you to Flatiron for helping make it a reality. 
