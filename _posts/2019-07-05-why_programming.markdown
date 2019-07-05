@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Programming? "
-date:       2019-07-05 23:22:23 +0000
+date:       2019-07-05 19:22:25 -0400
 permalink:  why_programming
 ---
 
@@ -27,3 +27,6 @@ I was stuck in that vicious circle for years until I finally one year decided to
 After that, I was officially hooked and determined to do whatever it takes to become a programmer and do this for a living. It was shortly after I published the app, I came across FlatIron in a Women Who Code group. I applied, got in and now here we are a week or two away from graduation! 
 
 I wished I'd had the confidence to pursue my dreams when I was younger and first had the interest. But I'm grateful for FlatIron for helping me make this a relaity - even if I decided to tackle it a few years later. Programming is a true passion of mine and my dream now, is to pay it forward and help young women and young girls realize and pursue their dreams. So they know it is achievable, they ARE smart enough and they can do it. 
+
+Once I complete the bootcamp, I am joining of development team at MSR so it seems my "seemingly lofty dream is about to come true". :) 
+
