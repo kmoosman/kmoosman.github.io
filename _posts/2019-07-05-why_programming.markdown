@@ -18,7 +18,7 @@ That was my first strike stepping up to the plate. But let's be honest, wasn't r
 
 However, that dream always still lingered in the back of my mind and it'd pop up occasionally to make an appearance. I remember one day specifically when I was about 19 or so and I had a co-worker ask me what my dream job would be. I told them it would be to develop software like "MSR or Veritix" which were two programs we frequently used. But I quickly laughed that off, like I said - that in no way, shape or form felt obtainable. So I went for the "Shoot for the moon, land among the stars' philosophy and said I'd like to do customer service for them instead. 
 
-Shortly after that, I actually decided to send a message to MSR and inquire about any openings with that exact intent. They didn't have any openings at the time (and were only a 4 person team - including the founders), so we kept in contact and ~4 years after I originally reached out a position opened up and I joined their customer success team. 
+Shortly after that, I actually decided to send a message to MSR and inquire about any openings with that exact intent. They didn't have any positions at the time and were only a 4 person team - including the founders, so we kept in contact in case something became available down the road. And after about 4 years, a position finally opened up and I joined their customer success team. 
 
 Now I'm officially in the batter's box but still far to intimidated to admit my interest in programming. So I kick one foot out and take a couple test swings for a few years. I'd bring up my interested in programming and mention I'd like to pursue it but every time I tried to learn on my own, I'd get overwhelmed - not knowing where to start and I'd give up. 
 
