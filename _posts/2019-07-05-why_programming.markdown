@@ -10,7 +10,7 @@ Today I opened a fortune cookie and inside on that tiny slip of paper I found, '
 
 As I finish up the bootcamp, I thought I'd bring it full circle and write about why I chose programming in the first place. Computers and programming have always interested me from a young age. However, I never in a million years thought I could be a developer. 
 
-I grew up in a small town where the school I went to didn't have many options or programs for programming. I also had never met a developer until I was in my 20's and I certainly didn't see any woman programmers. So when it came time to pick a major in college, I honestly, was far too embarrassed to say I wanted to be a developer. I thought that was the equivalent of saying I wanted to be a rocket scientist and quite frankly, just didn't think I was smart enough for that. 
+I grew up in a small town where the school I went to didn't have many options for programming. Pair that with the fact I'd never even met a developer until I was in my early 20's and I certainly has never encountered any female programmers. So when it came time to pick a major in college, I honestly, was far too embarrassed to say I wanted to be a developer. I thought that was the equivalent of saying I wanted to be a rocket scientist and quite frankly, just didn't think I was smart enough for that. 
 
 I actually remember sitting in a session with my academic when she asked what I'd like to do. I told her about my interest in computers but I was so intimidated when she asked about programming that I immediately backtracked and fell back to my comfort zone which was business, numbers and excel. So, I walked out of her office declaring my major as Management Information Systems instead of pursuing a CS degree. 
 
