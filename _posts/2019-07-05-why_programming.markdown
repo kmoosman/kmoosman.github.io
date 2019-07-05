@@ -8,7 +8,7 @@ permalink:  why_programming
 
 Today I opened a fortune cookie and inside on that tiny slip of paper I found, 'Your seemingly lofty dream will come true'. How fitting as I prep this weekend for the review of my final project. 
 
-As I finish up the bootcamp, I thought I'd bring it full circle and write about why I chose programming in the first place. Computers and programming is something that has interested me from a young age. However, I never in a million years thought I could be a developer. 
+As I finish up the bootcamp, I thought I'd bring it full circle and write about why I chose programming in the first place. Computers and programming have always interested me from a young age. However, I never in a million years thought I could be a developer. 
 
 I grew up in a small town where the school I went to didn't have many options or programs for programming. I also had never met a developer until I was in my 20's and I certainly didn't see any woman programmers. So when it came time to pick a major in college, I honestly, was far too embarrassed to say I wanted to be a developer. I thought that was the equivalent of saying I wanted to be a rocket scientist and quite frankly, just didn't think I was smart enough for that. 
 
