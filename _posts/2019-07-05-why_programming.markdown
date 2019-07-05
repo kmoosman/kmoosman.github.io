@@ -26,7 +26,7 @@ I was stuck in that vicious circle for years until I finally one year decided to
 
 After that, I was officially hooked and determined to do whatever it takes to become a developer.  It was shortly after I published the app, I came across FlatIron in a Women Who Code group. I applied, got in and now here we are a week or two away from graduation! Once I complete the bootcamp, I am joining our development team at MSR so it seems my "seemingly lofty dream is about to come true". 
 
-I wished I'd had the confidence to pursue my dreams when I was younger and first had the interest. But I'm grateful for FlatIron for helping me make this a reality - even if I decided to tackle it a few years later than most. Programming has become a true passion of mine and I want to share my experience with others to help them acheive their dreams. As I further my learnings and skills I hope to mentor other young women and girls so they know this is achievable, they are smart enough and to give them the confidence to pursue their goals. 
+I wished I'd had the confidence to pursue my dreams when I was younger and first had the interest. But I'm grateful for FlatIron for helping me make this a reality - even if I decided to tackle it a few years later than most. Programming has become a true passion of mine and I want to share my experience with others to help them acheive their dreams. As I further my learnings and skills I hope to mentor other young women and girls so they know this is achievable, they are smart enough and to give them the confidence to pursue their dreams too. 
 
 
 
