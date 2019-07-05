@@ -16,7 +16,7 @@ I actually remember sitting in a session with my academic when she asked what I'
 
 That was my first strike stepping up to the plate. But let's be honest, wasn't really even in the box at this point. 
 
-However, that dream always still lingered in the back of my mind and it'd pop up occasionally to make an appearance. I remember one day specifically when I was about 19 or so and I had a co-worker ask me what my dream job would be. I told them it would be to develop software like "MSR or Veritix" which were two programs we frequently used. But I quickly laughed that off, like I said - that in no way, shape or form felt obtainable. So I went for the "Shoot for the moon, land among the stars' philosophy and said I'd like to do customer service for them instead. 
+However, that dream always still lingered in the back of my mind and it'd pop up occasionally to make an appearance. I remember one day specifically when I was about 19 or so and I had a co-worker ask me what my dream job would be. I told them it would be to develop software like "MorotsportReg or Veritix" which were two programs we frequently used. But I quickly laughed that off, like I said - that in no way, shape or form felt obtainable. So I went for the "Shoot for the moon, land among the stars' philosophy and said I'd like to do customer service for them instead. 
 
 Shortly after that, I actually decided to send a message to MSR and inquire about any openings with that exact intent. They didn't have any positions at the time and were only a 4 person team - including the founders, so we kept in contact in case something became available down the road. After about 4 years, a position finally opened up and I joined their customer success team. 
 
