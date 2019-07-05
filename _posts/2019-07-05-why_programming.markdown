@@ -6,7 +6,7 @@ permalink:  why_programming
 ---
 
 
-Today I opened a fortune cookie and inside on that tiny slip of paper I found, 'Your seemingly lofty dream will come true'. How fitting as I prep this weekend for the review of my final project. 
+Today I opened a fortune cookie and inside, on that tiny slip of paper I found, 'Your seemingly lofty dream will come true'. How fitting as I prep this weekend for the review of my final project. 
 
 As I finish up the bootcamp, I thought I'd bring it full circle and write about why I chose programming in the first place. Computers and programming have always interested me from a young age. However, I never in a million years thought I could be a developer. 
 
